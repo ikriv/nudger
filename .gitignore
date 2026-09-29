@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+results/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+
+# Reviewed evidence for the published experiment.
+!/experiments/2026-09-26/results.sqlite
+!/experiments/results.sqlite
+/experiments/usage.jsonl
+/experiments/.budget.lock

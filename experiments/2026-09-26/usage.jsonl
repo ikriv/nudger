@@ -1,0 +1,308 @@
+{"id": "0cc0a9267f464b9ca3586c82c2bb025c", "event": "reserved", "usd": 0.0191695}
+{"id": "76c8e5ec03324bbfab2763a6288cb433", "event": "reserved", "usd": 0.0191695}
+{"id": "76c8e5ec03324bbfab2763a6288cb433", "event": "settled", "usd": 0.00094425, "input_tokens": 521, "output_tokens": 407}
+{"id": "e60366adfb4c4ae2919d366b73289bff", "event": "reserved", "usd": 0.0191695}
+{"id": "0cc0a9267f464b9ca3586c82c2bb025c", "event": "settled", "usd": 0.00105425, "input_tokens": 521, "output_tokens": 462}
+{"id": "6096e72a69024ca58bcafab8109ccf06", "event": "reserved", "usd": 0.0191695}
+{"id": "6096e72a69024ca58bcafab8109ccf06", "event": "settled", "usd": 0.00105825, "input_tokens": 521, "output_tokens": 464}
+{"id": "0d1dd271057e4ae0a9afcce5ce0c6485", "event": "reserved", "usd": 0.0191695}
+{"id": "e60366adfb4c4ae2919d366b73289bff", "event": "settled", "usd": 0.00122025, "input_tokens": 521, "output_tokens": 545}
+{"id": "0d1dd271057e4ae0a9afcce5ce0c6485", "event": "settled", "usd": 0.00094425, "input_tokens": 521, "output_tokens": 407}
+{"id": "ceaad135d3ed45548ee90e5be7228237", "event": "reserved", "usd": 0.0191695}
+{"id": "1729334e6fd7415caf15fc74a04de7d6", "event": "reserved", "usd": 0.0191695}
+{"id": "ceaad135d3ed45548ee90e5be7228237", "event": "settled", "usd": 0.00080625, "input_tokens": 521, "output_tokens": 338}
+{"id": "32a3a0fc5118489b875f38c5eca42e0d", "event": "reserved", "usd": 0.01953425}
+{"id": "1729334e6fd7415caf15fc74a04de7d6", "event": "settled", "usd": 0.00124025, "input_tokens": 521, "output_tokens": 555}
+{"id": "29beb1627dc14511b3aaeb2cf9bb4338", "event": "reserved", "usd": 0.01956725}
+{"id": "32a3a0fc5118489b875f38c5eca42e0d", "event": "settled", "usd": 0.00082575, "input_tokens": 607, "output_tokens": 337}
+{"id": "5e22292333ee4d9c8d6c8611d9e0fa71", "event": "reserved", "usd": 0.01990525}
+{"id": "29beb1627dc14511b3aaeb2cf9bb4338", "event": "settled", "usd": 0.001012, "input_tokens": 632, "output_tokens": 427}
+{"id": "0736f1e5e4d5461cb4d4c235a329cbc7", "event": "reserved", "usd": 0.01996475}
+{"id": "5e22292333ee4d9c8d6c8611d9e0fa71", "event": "settled", "usd": 0.001089, "input_tokens": 692, "output_tokens": 458}
+{"id": "fc03a05dd2634031b7992e30361f536d", "event": "reserved", "usd": 0.0202725}
+{"id": "0736f1e5e4d5461cb4d4c235a329cbc7", "event": "settled", "usd": 0.00132175, "input_tokens": 743, "output_tokens": 568}
+{"id": "57a78bca216d42ab8c59017b6588751c", "event": "reserved", "usd": 0.020392}
+{"id": "fc03a05dd2634031b7992e30361f536d", "event": "settled", "usd": 0.0011705, "input_tokens": 770, "output_tokens": 489}
+{"id": "39f023760bbf41789bf371ed5036825b", "event": "reserved", "usd": 0.0191695}
+{"id": "57a78bca216d42ab8c59017b6588751c", "event": "settled", "usd": 0.00106675, "input_tokens": 867, "output_tokens": 425}
+{"id": "23a43687dab743e38b0b095ed1e9d1ad", "event": "reserved", "usd": 0.0191695}
+{"id": "39f023760bbf41789bf371ed5036825b", "event": "settled", "usd": 0.00092025, "input_tokens": 521, "output_tokens": 395}
+{"id": "a07e318db4a44ab5998c41c3bf08884a", "event": "reserved", "usd": 0.01953525}
+{"id": "23a43687dab743e38b0b095ed1e9d1ad", "event": "settled", "usd": 0.00134625, "input_tokens": 521, "output_tokens": 608}
+{"id": "e8b8be9c31524944886bd63c2dba1fa3", "event": "reserved", "usd": 0.01955825}
+{"id": "a07e318db4a44ab5998c41c3bf08884a", "event": "settled", "usd": 0.000944, "input_tokens": 600, "output_tokens": 397}
+{"id": "cefabaa1e8e34d7a9b94841be6a5bf42", "event": "reserved", "usd": 0.01990275}
+{"id": "e8b8be9c31524944886bd63c2dba1fa3", "event": "settled", "usd": 0.00096325, "input_tokens": 621, "output_tokens": 404}
+{"id": "518caa80a06748dca1514b2575099453", "event": "reserved", "usd": 0.01993}
+{"id": "cefabaa1e8e34d7a9b94841be6a5bf42", "event": "settled", "usd": 0.00122225, "input_tokens": 681, "output_tokens": 526}
+{"id": "3c215b4b42bd42a3a195c1f7464642a7", "event": "reserved", "usd": 0.02027375}
+{"id": "518caa80a06748dca1514b2575099453", "event": "settled", "usd": 0.00073925, "input_tokens": 709, "output_tokens": 281}
+{"id": "25105540fdcc4aaf8d225237f0a19314", "event": "reserved", "usd": 0.020309}
+{"id": "3c215b4b42bd42a3a195c1f7464642a7", "event": "settled", "usd": 0.00116875, "input_tokens": 763, "output_tokens": 489}
+{"id": "1b8e8cd86d7a42c2973a469bd1c3263e", "event": "reserved", "usd": 0.0191695}
+{"id": "25105540fdcc4aaf8d225237f0a19314", "event": "settled", "usd": 0.0009225, "input_tokens": 802, "output_tokens": 361}
+{"id": "1b8e8cd86d7a42c2973a469bd1c3263e", "event": "settled", "usd": 0.00084425, "input_tokens": 521, "output_tokens": 357}
+{"id": "92d50523e74742728425cbe7e2c0ca47", "event": "reserved", "usd": 0.01956275}
+{"id": "92d50523e74742728425cbe7e2c0ca47", "event": "settled", "usd": 0.0010545, "input_tokens": 626, "output_tokens": 449}
+{"id": "137620bfd8fb42b59688834caa3a5d7f", "event": "reserved", "usd": 0.01991275}
+{"id": "137620bfd8fb42b59688834caa3a5d7f", "event": "settled", "usd": 0.00112975, "input_tokens": 695, "output_tokens": 478}
+{"id": "059ad5a0de824e1cb366d96a3684e71d", "event": "reserved", "usd": 0.02030175}
+{"id": "059ad5a0de824e1cb366d96a3684e71d", "event": "settled", "usd": 0.00104825, "input_tokens": 793, "output_tokens": 425}
+{"id": "fd9dc7037510465b91be320053ae651f", "event": "reserved", "usd": 0.0191695}
+{"id": "f7b3d494e5f64f41a75f262ed0bccc71", "event": "reserved", "usd": 0.0191695}
+{"id": "fd9dc7037510465b91be320053ae651f", "event": "settled", "usd": 0.00077825, "input_tokens": 521, "output_tokens": 324}
+{"id": "f254c582fb5d474b9fd769bf077184e1", "event": "reserved", "usd": 0.01957825}
+{"id": "f7b3d494e5f64f41a75f262ed0bccc71", "event": "settled", "usd": 0.00123625, "input_tokens": 521, "output_tokens": 553}
+{"id": "3771b7716ed241d8bd7851324df90db4", "event": "reserved", "usd": 0.0196185}
+{"id": "f254c582fb5d474b9fd769bf077184e1", "event": "settled", "usd": 0.0015385, "input_tokens": 642, "output_tokens": 689}
+{"id": "fdd26b12a43342428f2129e076bd77c3", "event": "reserved", "usd": 0.019928}
+{"id": "3771b7716ed241d8bd7851324df90db4", "event": "settled", "usd": 0.00188375, "input_tokens": 679, "output_tokens": 857}
+{"id": "22b9dfb531084c32a56da63d6510a2b9", "event": "reserved", "usd": 0.0200135}
+{"id": "fdd26b12a43342428f2129e076bd77c3", "event": "settled", "usd": 0.0012025, "input_tokens": 706, "output_tokens": 513}
+{"id": "53a20c203e6242f6a8ae3c6f937b9631", "event": "reserved", "usd": 0.02030175}
+{"id": "22b9dfb531084c32a56da63d6510a2b9", "event": "settled", "usd": 0.001092, "input_tokens": 784, "output_tokens": 448}
+{"id": "903244be30834aa0b78c2b06d0575c34", "event": "reserved", "usd": 0.02037575}
+{"id": "53a20c203e6242f6a8ae3c6f937b9631", "event": "settled", "usd": 0.00075875, "input_tokens": 787, "output_tokens": 281}
+{"id": "7071e6caaf0d4144b6ed464fc8a4ac6c", "event": "reserved", "usd": 0.02067975}
+{"id": "903244be30834aa0b78c2b06d0575c34", "event": "settled", "usd": 0.00129, "input_tokens": 864, "output_tokens": 537}
+{"id": "7b85978d53374f329301d5486b7c00b4", "event": "reserved", "usd": 0.02075375}
+{"id": "7071e6caaf0d4144b6ed464fc8a4ac6c", "event": "settled", "usd": 0.00144725, "input_tokens": 853, "output_tokens": 617}
+{"id": "872798957f2144408765ae6a38ee8124", "event": "reserved", "usd": 0.0191695}
+{"id": "7b85978d53374f329301d5486b7c00b4", "event": "settled", "usd": 0.0008265, "input_tokens": 930, "output_tokens": 297}
+{"id": "0aa60d1fbd3c41f2a66d27d57d333a10", "event": "reserved", "usd": 0.0191695}
+{"id": "872798957f2144408765ae6a38ee8124", "event": "settled", "usd": 0.00112025, "input_tokens": 521, "output_tokens": 495}
+{"id": "751dde9c55cf4e888aa462f1280ab4ac", "event": "reserved", "usd": 0.01962325}
+{"id": "0aa60d1fbd3c41f2a66d27d57d333a10", "event": "settled", "usd": 0.00094225, "input_tokens": 521, "output_tokens": 406}
+{"id": "d470ea48f13346059bd57417d0593978", "event": "reserved", "usd": 0.01960025}
+{"id": "751dde9c55cf4e888aa462f1280ab4ac", "event": "settled", "usd": 0.00089725, "input_tokens": 685, "output_tokens": 363}
+{"id": "0615ca19ceeb499693c557e4ae83562a", "event": "reserved", "usd": 0.019968}
+{"id": "d470ea48f13346059bd57417d0593978", "event": "settled", "usd": 0.001821, "input_tokens": 660, "output_tokens": 828}
+{"id": "793d036e67734e11bb71effcbd5ed9ec", "event": "reserved", "usd": 0.02004225}
+{"id": "0615ca19ceeb499693c557e4ae83562a", "event": "settled", "usd": 0.00121975, "input_tokens": 743, "output_tokens": 517}
+{"id": "9b4ecf7d551b4a30b7c832e7616492a7", "event": "reserved", "usd": 0.0203425}
+{"id": "9b4ecf7d551b4a30b7c832e7616492a7", "event": "settled", "usd": 0.000769, "input_tokens": 828, "output_tokens": 281}
+{"id": "7c50dae35843477895aa09ce61d4eb04", "event": "reserved", "usd": 0.0207205}
+{"id": "793d036e67734e11bb71effcbd5ed9ec", "event": "settled", "usd": 0.001764, "input_tokens": 800, "output_tokens": 782}
+{"id": "2dc87ebd5ca241389b454b10e6da965a", "event": "reserved", "usd": 0.0204285}
+{"id": "7c50dae35843477895aa09ce61d4eb04", "event": "settled", "usd": 0.0018415, "input_tokens": 894, "output_tokens": 809}
+{"id": "20e17871f6ad4bd18c6754753eff8608", "event": "reserved", "usd": 0.0191695}
+{"id": "2dc87ebd5ca241389b454b10e6da965a", "event": "settled", "usd": 0.0015535, "input_tokens": 894, "output_tokens": 665}
+{"id": "a199c28a209a4ac9806b641169c36fc2", "event": "reserved", "usd": 0.0208065}
+{"id": "20e17871f6ad4bd18c6754753eff8608", "event": "settled", "usd": 0.00093825, "input_tokens": 521, "output_tokens": 404}
+{"id": "19ad363351004bea930319b7387e0797", "event": "reserved", "usd": 0.01959425}
+{"id": "a199c28a209a4ac9806b641169c36fc2", "event": "settled", "usd": 0.001346, "input_tokens": 960, "output_tokens": 553}
+{"id": "19ad363351004bea930319b7387e0797", "event": "settled", "usd": 0.0016145, "input_tokens": 658, "output_tokens": 725}
+{"id": "7f7cfffca51a4dd1a2ec5900b5767544", "event": "reserved", "usd": 0.01997875}
+{"id": "7f7cfffca51a4dd1a2ec5900b5767544", "event": "settled", "usd": 0.00164375, "input_tokens": 759, "output_tokens": 727}
+{"id": "ae62e7a62db94ec8a4f4748c07217e74", "event": "reserved", "usd": 0.02037275}
+{"id": "ae62e7a62db94ec8a4f4748c07217e74", "event": "settled", "usd": 0.0014175, "input_tokens": 862, "output_tokens": 601}
+{"id": "35226142a4374e5287e39d7d78734d8e", "event": "reserved", "usd": 0.02075075}
+{"id": "35226142a4374e5287e39d7d78734d8e", "event": "settled", "usd": 0.00185, "input_tokens": 928, "output_tokens": 809}
+{"id": "aad0dfd1445b4a7a8637d22edb7340fb", "event": "reserved", "usd": 0.1518}
+{"id": "82dbedeaa58b4ada83697db63eaaea94", "event": "reserved", "usd": 0.1518}
+{"id": "82dbedeaa58b4ada83697db63eaaea94", "event": "settled", "usd": 0.00327, "input_tokens": 715, "output_tokens": 75}
+{"id": "963db25d1bc44e9bae00770f59f8c89a", "event": "reserved", "usd": 0.157662}
+{"id": "aad0dfd1445b4a7a8637d22edb7340fb", "event": "settled", "usd": 0.00402, "input_tokens": 715, "output_tokens": 125}
+{"id": "ebb89e95a01a44c2a6e98f76cf4cb335", "event": "reserved", "usd": 0.160662}
+{"id": "963db25d1bc44e9bae00770f59f8c89a", "event": "settled", "usd": 0.003732, "input_tokens": 964, "output_tokens": 56}
+{"id": "2b710d7592da4bcba4837838a70a4e25", "event": "reserved", "usd": 0.163725}
+{"id": "2b710d7592da4bcba4837838a70a4e25", "event": "settled", "usd": 0.008097, "input_tokens": 1274, "output_tokens": 285}
+{"id": "b7da811c6daf43df8af964cc1d00284e", "event": "reserved", "usd": 0.170043}
+{"id": "ebb89e95a01a44c2a6e98f76cf4cb335", "event": "settled", "usd": 0.009855, "input_tokens": 1265, "output_tokens": 404}
+{"id": "007624bb987d4d7eaf4320a16a899d1c", "event": "reserved", "usd": 0.172965}
+{"id": "007624bb987d4d7eaf4320a16a899d1c", "event": "settled", "usd": 0.006756, "input_tokens": 1857, "output_tokens": 79}
+{"id": "e0bf65d9ed1245e39c60f3ac637e1344", "event": "reserved", "usd": 0.179742}
+{"id": "b7da811c6daf43df8af964cc1d00284e", "event": "settled", "usd": 0.008955, "input_tokens": 1580, "output_tokens": 281}
+{"id": "7967bd953e3b43d5b201068a89519896", "event": "reserved", "usd": 0.181104}
+{"id": "7967bd953e3b43d5b201068a89519896", "event": "settled", "usd": 0.007272, "input_tokens": 2049, "output_tokens": 75}
+{"id": "05892eb8f83e43e9b4629dc0711601f2", "event": "reserved", "usd": 0.187833}
+{"id": "e0bf65d9ed1245e39c60f3ac637e1344", "event": "settled", "usd": 0.009249, "input_tokens": 2193, "output_tokens": 178}
+{"id": "30e471ddfde3449d8c7923ba0528ba98", "event": "reserved", "usd": 0.1518}
+{"id": "30e471ddfde3449d8c7923ba0528ba98", "event": "settled", "usd": 0.00402, "input_tokens": 715, "output_tokens": 125}
+{"id": "df36fc9070e04befb5bee92a90a1abb6", "event": "reserved", "usd": 0.160662}
+{"id": "05892eb8f83e43e9b4629dc0711601f2", "event": "settled", "usd": 0.009153, "input_tokens": 2381, "output_tokens": 134}
+{"id": "28436971bb8143ff8e405da13ed37d35", "event": "reserved", "usd": 0.1518}
+{"id": "28436971bb8143ff8e405da13ed37d35", "event": "settled", "usd": 0.00327, "input_tokens": 715, "output_tokens": 75}
+{"id": "b9ceab9f990740dbb50a3b43f276ae1a", "event": "reserved", "usd": 0.157662}
+{"id": "b9ceab9f990740dbb50a3b43f276ae1a", "event": "settled", "usd": 0.003732, "input_tokens": 964, "output_tokens": 56}
+{"id": "0817235b81224171af8596b28e4e03be", "event": "reserved", "usd": 0.163725}
+{"id": "df36fc9070e04befb5bee92a90a1abb6", "event": "settled", "usd": 0.009765, "input_tokens": 1265, "output_tokens": 398}
+{"id": "b285f7033ff741b0b68f75e4e8952d17", "event": "reserved", "usd": 0.172803}
+{"id": "b285f7033ff741b0b68f75e4e8952d17", "event": "settled", "usd": 0.006783, "input_tokens": 1851, "output_tokens": 82}
+{"id": "848aecaec05b4fadb77668a8d9e304fc", "event": "reserved", "usd": 0.179598}
+{"id": "0817235b81224171af8596b28e4e03be", "event": "settled", "usd": 0.008277, "input_tokens": 1274, "output_tokens": 297}
+{"id": "3b80fd31e6f04c258f384764728e397e", "event": "reserved", "usd": 0.16992}
+{"id": "848aecaec05b4fadb77668a8d9e304fc", "event": "settled", "usd": 0.009135, "input_tokens": 2190, "output_tokens": 171}
+{"id": "c1e2d4fe377f41fa83f993b53561f8e2", "event": "reserved", "usd": 0.1518}
+{"id": "c1e2d4fe377f41fa83f993b53561f8e2", "event": "settled", "usd": 0.00399, "input_tokens": 715, "output_tokens": 123}
+{"id": "1cc696598d4c4cc9a02f89434b78fad8", "event": "reserved", "usd": 0.160674}
+{"id": "3b80fd31e6f04c258f384764728e397e", "event": "settled", "usd": 0.009021, "input_tokens": 1592, "output_tokens": 283}
+{"id": "6eb929b04f304bb6925a2aa9df3db849", "event": "reserved", "usd": 0.181029}
+{"id": "6eb929b04f304bb6925a2aa9df3db849", "event": "settled", "usd": 0.007314, "input_tokens": 2063, "output_tokens": 75}
+{"id": "f8f17b1b2405427c8a1fd10fb4d3b02b", "event": "reserved", "usd": 0.187758}
+{"id": "f8f17b1b2405427c8a1fd10fb4d3b02b", "event": "settled", "usd": 0.009165, "input_tokens": 2395, "output_tokens": 132}
+{"id": "1cc696598d4c4cc9a02f89434b78fad8", "event": "settled", "usd": 0.010374, "input_tokens": 1263, "output_tokens": 439}
+{"id": "c660cd80b9254410bb4418cd635d531b", "event": "reserved", "usd": 0.17304}
+{"id": "c660cd80b9254410bb4418cd635d531b", "event": "settled", "usd": 0.00678, "input_tokens": 1890, "output_tokens": 74}
+{"id": "e423239269424d9fa1e7310fc980bf72", "event": "reserved", "usd": 0.179715}
+{"id": "e423239269424d9fa1e7310fc980bf72", "event": "settled", "usd": 0.009423, "input_tokens": 2221, "output_tokens": 184}
+{"id": "fb390588d3b2415f9054316708d6cf9d", "event": "reserved", "usd": 0.152346}
+{"id": "503ca63ca64046f998f62e49489dfd4c", "event": "reserved", "usd": 0.152346}
+{"id": "fb390588d3b2415f9054316708d6cf9d", "event": "settled", "usd": 0.00402, "input_tokens": 750, "output_tokens": 118}
+{"id": "b668bcae9f1940c18154790583b50567", "event": "reserved", "usd": 0.160425}
+{"id": "503ca63ca64046f998f62e49489dfd4c", "event": "settled", "usd": 0.0042, "input_tokens": 750, "output_tokens": 130}
+{"id": "df5073e1b50f4f09997533e01f3332f8", "event": "reserved", "usd": 0.161337}
+{"id": "b668bcae9f1940c18154790583b50567", "event": "settled", "usd": 0.005049, "input_tokens": 1213, "output_tokens": 94}
+{"id": "0188324336f34843b964779337dd5a0e", "event": "reserved", "usd": 0.16542}
+{"id": "0188324336f34843b964779337dd5a0e", "event": "settled", "usd": 0.006411, "input_tokens": 1347, "output_tokens": 158}
+{"id": "a91c7755677244979f9b3d2c28e4290b", "event": "reserved", "usd": 0.171039}
+{"id": "df5073e1b50f4f09997533e01f3332f8", "event": "settled", "usd": 0.01029, "input_tokens": 1305, "output_tokens": 425}
+{"id": "16145ce02bce44f28fbf800c524f1892", "event": "reserved", "usd": 0.173958}
+{"id": "a91c7755677244979f9b3d2c28e4290b", "event": "settled", "usd": 0.006084, "input_tokens": 1563, "output_tokens": 93}
+{"id": "1f59f11c236246ac96b4de93ebd3aaaa", "event": "reserved", "usd": 0.17586}
+{"id": "16145ce02bce44f28fbf800c524f1892", "event": "settled", "usd": 0.007503, "input_tokens": 1936, "output_tokens": 113}
+{"id": "de8bb5c4cf7648068edf3b079256e15d", "event": "reserved", "usd": 0.178908}
+{"id": "1f59f11c236246ac96b4de93ebd3aaaa", "event": "settled", "usd": 0.006024, "input_tokens": 1678, "output_tokens": 66}
+{"id": "54f98422e2224a33b75dc780355e6032", "event": "reserved", "usd": 0.180066}
+{"id": "de8bb5c4cf7648068edf3b079256e15d", "event": "settled", "usd": 0.007323, "input_tokens": 2071, "output_tokens": 74}
+{"id": "1ba5c88f827d4eac95c97717c501b989", "event": "reserved", "usd": 0.185625}
+{"id": "54f98422e2224a33b75dc780355e6032", "event": "settled", "usd": 0.006288, "input_tokens": 1766, "output_tokens": 66}
+{"id": "40a48b89c8b84263b2b30dc9cc0b5a35", "event": "reserved", "usd": 0.184266}
+{"id": "40a48b89c8b84263b2b30dc9cc0b5a35", "event": "settled", "usd": 0.006552, "input_tokens": 1854, "output_tokens": 66}
+{"id": "866c1a31852446f3beaa90baecc03d43", "event": "reserved", "usd": 0.188466}
+{"id": "866c1a31852446f3beaa90baecc03d43", "event": "settled", "usd": 0.006816, "input_tokens": 1942, "output_tokens": 66}
+{"id": "391623c3688c4e899f45cd5690f99efa", "event": "reserved", "usd": 0.192678}
+{"id": "1ba5c88f827d4eac95c97717c501b989", "event": "settled", "usd": 0.009939, "input_tokens": 2403, "output_tokens": 182}
+{"id": "a5c8b547af394c1a9fcc6867245589e4", "event": "reserved", "usd": 0.152346}
+{"id": "a5c8b547af394c1a9fcc6867245589e4", "event": "settled", "usd": 0.003435, "input_tokens": 750, "output_tokens": 79}
+{"id": "67959fac733c4ad7a486ff2431d4e90a", "event": "reserved", "usd": 0.159015}
+{"id": "391623c3688c4e899f45cd5690f99efa", "event": "settled", "usd": 0.007245, "input_tokens": 2030, "output_tokens": 77}
+{"id": "815bba21b66c44559e869fc319d61eee", "event": "reserved", "usd": 0.198708}
+{"id": "815bba21b66c44559e869fc319d61eee", "event": "settled", "usd": 0.008538, "input_tokens": 2286, "output_tokens": 112}
+{"id": "343aaca891ad437ba15aabfc6446f6da", "event": "reserved", "usd": 0.152346}
+{"id": "343aaca891ad437ba15aabfc6446f6da", "event": "settled", "usd": 0.003435, "input_tokens": 750, "output_tokens": 79}
+{"id": "7572a5d93d9145d6a79b048411335ab0", "event": "reserved", "usd": 0.159021}
+{"id": "67959fac733c4ad7a486ff2431d4e90a", "event": "settled", "usd": 0.007734, "input_tokens": 1083, "output_tokens": 299}
+{"id": "60bf3fca4cd945e5bac29e92cfb59e1e", "event": "reserved", "usd": 0.16872}
+{"id": "7572a5d93d9145d6a79b048411335ab0", "event": "settled", "usd": 0.006069, "input_tokens": 1083, "output_tokens": 188}
+{"id": "a5a776b4fa704a54876653ab3a2375f0", "event": "reserved", "usd": 0.165585}
+{"id": "60bf3fca4cd945e5bac29e92cfb59e1e", "event": "settled", "usd": 0.007923, "input_tokens": 1651, "output_tokens": 198}
+{"id": "d17f05d1f37e45938a2853e428daf22e", "event": "reserved", "usd": 0.1749}
+{"id": "a5a776b4fa704a54876653ab3a2375f0", "event": "settled", "usd": 0.006192, "input_tokens": 1369, "output_tokens": 139}
+{"id": "1191df929b15494b8c152c0fcb2e34e3", "event": "reserved", "usd": 0.171492}
+{"id": "d17f05d1f37e45938a2853e428daf22e", "event": "settled", "usd": 0.007041, "input_tokens": 1907, "output_tokens": 88}
+{"id": "2ea75b26052d4f288b1ca90ef5c61f28", "event": "reserved", "usd": 0.179709}
+{"id": "2ea75b26052d4f288b1ca90ef5c61f28", "event": "settled", "usd": 0.007041, "input_tokens": 2017, "output_tokens": 66}
+{"id": "3506353b2c824df7a9dca1ea00ce4b99", "event": "reserved", "usd": 0.183915}
+{"id": "3506353b2c824df7a9dca1ea00ce4b99", "event": "settled", "usd": 0.007305, "input_tokens": 2105, "output_tokens": 66}
+{"id": "27931f57f3e0421aa5338f4d5c5c814a", "event": "reserved", "usd": 0.188115}
+{"id": "1191df929b15494b8c152c0fcb2e34e3", "event": "settled", "usd": 0.006369, "input_tokens": 1593, "output_tokens": 106}
+{"id": "3f105d7e29834fc08549d6a972d2a835", "event": "reserved", "usd": 0.176244}
+{"id": "27931f57f3e0421aa5338f4d5c5c814a", "event": "settled", "usd": 0.007569, "input_tokens": 2193, "output_tokens": 66}
+{"id": "eb48195e52144e848430ab5699695707", "event": "reserved", "usd": 0.192315}
+{"id": "eb48195e52144e848430ab5699695707", "event": "settled", "usd": 0.007833, "input_tokens": 2281, "output_tokens": 66}
+{"id": "072a46f4936646328f19b969277dbf1b", "event": "reserved", "usd": 0.196527}
+{"id": "3f105d7e29834fc08549d6a972d2a835", "event": "settled", "usd": 0.010485, "input_tokens": 1720, "output_tokens": 355}
+{"id": "12249c43c25f4a5aa0ff3ac08b269d95", "event": "reserved", "usd": 0.187971}
+{"id": "072a46f4936646328f19b969277dbf1b", "event": "settled", "usd": 0.008262, "input_tokens": 2369, "output_tokens": 77}
+{"id": "5f6587edf77a401fa261632063b6504b", "event": "reserved", "usd": 0.203292}
+{"id": "12249c43c25f4a5aa0ff3ac08b269d95", "event": "settled", "usd": 0.008019, "input_tokens": 2263, "output_tokens": 82}
+{"id": "80a2234e7ea44d5a8cbb9b8167924842", "event": "reserved", "usd": 0.194757}
+{"id": "80a2234e7ea44d5a8cbb9b8167924842", "event": "settled", "usd": 0.009696, "input_tokens": 2602, "output_tokens": 126}
+{"id": "df3ef11e9b7d4a078eb05ae34449bb83", "event": "reserved", "usd": 0.152346}
+{"id": "5f6587edf77a401fa261632063b6504b", "event": "settled", "usd": 0.009885, "input_tokens": 2705, "output_tokens": 118}
+{"id": "df3ef11e9b7d4a078eb05ae34449bb83", "event": "settled", "usd": 0.00417, "input_tokens": 750, "output_tokens": 128}
+{"id": "053cb90cfd104a7a9cfa8561b824615f", "event": "reserved", "usd": 0.161304}
+{"id": "053cb90cfd104a7a9cfa8561b824615f", "event": "settled", "usd": 0.005709, "input_tokens": 1303, "output_tokens": 120}
+{"id": "d5d521c1b77c4bc5956d587054969a74", "event": "reserved", "usd": 0.166641}
+{"id": "d5d521c1b77c4bc5956d587054969a74", "event": "settled", "usd": 0.008409, "input_tokens": 1463, "output_tokens": 268}
+{"id": "cd1694268eeb465bae195dc442d89020", "event": "reserved", "usd": 0.173238}
+{"id": "cd1694268eeb465bae195dc442d89020", "event": "settled", "usd": 0.009567, "input_tokens": 1789, "output_tokens": 280}
+{"id": "68d0b8df1e2d4dd3949978412325dc22", "event": "reserved", "usd": 0.184302}
+{"id": "68d0b8df1e2d4dd3949978412325dc22", "event": "settled", "usd": 0.008016, "input_tokens": 2257, "output_tokens": 83}
+{"id": "5451f5f7ff404058af188f786905d523", "event": "reserved", "usd": 0.191121}
+{"id": "5451f5f7ff404058af188f786905d523", "event": "settled", "usd": 0.009537, "input_tokens": 2599, "output_tokens": 116}
+{"id": "d9a008a8472a4090bed5ae2dc181f21b", "event": "reserved", "usd": 0.153186}
+{"id": "5cff8c5966fe4e358bdcfba23e6fc98f", "event": "reserved", "usd": 0.153186}
+{"id": "5cff8c5966fe4e358bdcfba23e6fc98f", "event": "settled", "usd": 0.003504, "input_tokens": 803, "output_tokens": 73}
+{"id": "0c5c14ec6eba4bfd9fe1b1b53dcf7d0b", "event": "reserved", "usd": 0.15903}
+{"id": "d9a008a8472a4090bed5ae2dc181f21b", "event": "settled", "usd": 0.003534, "input_tokens": 803, "output_tokens": 75}
+{"id": "a9ef289824844d1c848643571867c775", "event": "reserved", "usd": 0.159048}
+{"id": "0c5c14ec6eba4bfd9fe1b1b53dcf7d0b", "event": "settled", "usd": 0.00399, "input_tokens": 1050, "output_tokens": 56}
+{"id": "bd3bb55da1c4420c855ecb7265ee964e", "event": "reserved", "usd": 0.165099}
+{"id": "a9ef289824844d1c848643571867c775", "event": "settled", "usd": 0.003996, "input_tokens": 1052, "output_tokens": 56}
+{"id": "dd7288f2dd8a4231bb491feb69ac0373", "event": "reserved", "usd": 0.165117}
+{"id": "bd3bb55da1c4420c855ecb7265ee964e", "event": "settled", "usd": 0.00744, "input_tokens": 1360, "output_tokens": 224}
+{"id": "ee86fa4333bc4b60861d65701872187c", "event": "reserved", "usd": 0.171459}
+{"id": "dd7288f2dd8a4231bb491feb69ac0373", "event": "settled", "usd": 0.007731, "input_tokens": 1362, "output_tokens": 243}
+{"id": "99609d883cd14a669c5529f98db520bb", "event": "reserved", "usd": 0.171477}
+{"id": "ee86fa4333bc4b60861d65701872187c", "event": "settled", "usd": 0.006276, "input_tokens": 1642, "output_tokens": 90}
+{"id": "4e4375a0980e4c57a248bdcf020e0ad5", "event": "reserved", "usd": 0.176256}
+{"id": "99609d883cd14a669c5529f98db520bb", "event": "settled", "usd": 0.007044, "input_tokens": 1663, "output_tokens": 137}
+{"id": "f279a199d57840e0b98c55d46542267c", "event": "reserved", "usd": 0.176811}
+{"id": "4e4375a0980e4c57a248bdcf020e0ad5", "event": "settled", "usd": 0.006252, "input_tokens": 1754, "output_tokens": 66}
+{"id": "32b2743794c84ea08893d80b877ebdb8", "event": "reserved", "usd": 0.180462}
+{"id": "32b2743794c84ea08893d80b877ebdb8", "event": "settled", "usd": 0.006516, "input_tokens": 1842, "output_tokens": 66}
+{"id": "1be26443295b4ff0840ee7652e93f0d8", "event": "reserved", "usd": 0.184662}
+{"id": "f279a199d57840e0b98c55d46542267c", "event": "settled", "usd": 0.006912, "input_tokens": 1819, "output_tokens": 97}
+{"id": "f8d47dc26c65414195d3dc25c572f811", "event": "reserved", "usd": 0.181722}
+{"id": "1be26443295b4ff0840ee7652e93f0d8", "event": "settled", "usd": 0.00678, "input_tokens": 1930, "output_tokens": 66}
+{"id": "38be2812e73544f6bdf94015c0ad9d96", "event": "reserved", "usd": 0.188862}
+{"id": "f8d47dc26c65414195d3dc25c572f811", "event": "settled", "usd": 0.006804, "input_tokens": 1938, "output_tokens": 66}
+{"id": "1b3dbc8a5e3b436cb52df9f4a6f6d868", "event": "reserved", "usd": 0.185928}
+{"id": "38be2812e73544f6bdf94015c0ad9d96", "event": "settled", "usd": 0.007044, "input_tokens": 2018, "output_tokens": 66}
+{"id": "847f709a96fc4b8d94bf673a6fd968da", "event": "reserved", "usd": 0.193074}
+{"id": "1b3dbc8a5e3b436cb52df9f4a6f6d868", "event": "settled", "usd": 0.007068, "input_tokens": 2026, "output_tokens": 66}
+{"id": "33d29f82f75c4249be231d91521712c2", "event": "reserved", "usd": 0.190128}
+{"id": "847f709a96fc4b8d94bf673a6fd968da", "event": "settled", "usd": 0.007428, "input_tokens": 2106, "output_tokens": 74}
+{"id": "771ce7d9d05e4da685b59333bcc41ed4", "event": "reserved", "usd": 0.199818}
+{"id": "33d29f82f75c4249be231d91521712c2", "event": "settled", "usd": 0.007332, "input_tokens": 2114, "output_tokens": 66}
+{"id": "5002fdcef7ae4b8784fe32e2e6b75563", "event": "reserved", "usd": 0.194328}
+{"id": "5002fdcef7ae4b8784fe32e2e6b75563", "event": "settled", "usd": 0.007596, "input_tokens": 2202, "output_tokens": 66}
+{"id": "6541c5c1ab534693b67416710b9b4dd9", "event": "reserved", "usd": 0.19854}
+{"id": "771ce7d9d05e4da685b59333bcc41ed4", "event": "settled", "usd": 0.009117, "input_tokens": 2439, "output_tokens": 120}
+{"id": "c4c0be4413444bd3a849c74e2f2438f2", "event": "reserved", "usd": 0.153186}
+{"id": "c4c0be4413444bd3a849c74e2f2438f2", "event": "settled", "usd": 0.004329, "input_tokens": 803, "output_tokens": 128}
+{"id": "ca5a2552723b43f3a3ab71f2eb241f7f", "event": "reserved", "usd": 0.162144}
+{"id": "6541c5c1ab534693b67416710b9b4dd9", "event": "settled", "usd": 0.007995, "input_tokens": 2290, "output_tokens": 75}
+{"id": "3d751fe66f8d4abfbf55f435981376de", "event": "reserved", "usd": 0.20529}
+{"id": "3d751fe66f8d4abfbf55f435981376de", "event": "settled", "usd": 0.010212, "input_tokens": 2624, "output_tokens": 156}
+{"id": "4dc225cff6e74b89a802f088f30bc6df", "event": "reserved", "usd": 0.153186}
+{"id": "ca5a2552723b43f3a3ab71f2eb241f7f", "event": "settled", "usd": 0.007473, "input_tokens": 1356, "output_tokens": 227}
+{"id": "db33f6390624499a97e0022ea08a5bf3", "event": "reserved", "usd": 0.16839}
+{"id": "4dc225cff6e74b89a802f088f30bc6df", "event": "settled", "usd": 0.003504, "input_tokens": 803, "output_tokens": 73}
+{"id": "be61867ab0a84746a54afa2cc14ae617", "event": "reserved", "usd": 0.15903}
+{"id": "be61867ab0a84746a54afa2cc14ae617", "event": "settled", "usd": 0.00399, "input_tokens": 1050, "output_tokens": 56}
+{"id": "a13a85f0763c4c528e2e65a7670a182f", "event": "reserved", "usd": 0.165099}
+{"id": "db33f6390624499a97e0022ea08a5bf3", "event": "settled", "usd": 0.006303, "input_tokens": 1641, "output_tokens": 92}
+{"id": "3e9c2cccabf14c62a97036e1f77f6d5f", "event": "reserved", "usd": 0.173286}
+{"id": "3e9c2cccabf14c62a97036e1f77f6d5f", "event": "settled", "usd": 0.006255, "input_tokens": 1755, "output_tokens": 66}
+{"id": "74ee6228136f4a6c98388d024d3b3041", "event": "reserved", "usd": 0.177492}
+{"id": "74ee6228136f4a6c98388d024d3b3041", "event": "settled", "usd": 0.006519, "input_tokens": 1843, "output_tokens": 66}
+{"id": "318a8bd616ad477197ba99450d912517", "event": "reserved", "usd": 0.181692}
+{"id": "318a8bd616ad477197ba99450d912517", "event": "settled", "usd": 0.006783, "input_tokens": 1931, "output_tokens": 66}
+{"id": "dfb421adde014b428a6e04e6f0bfd31a", "event": "reserved", "usd": 0.185892}
+{"id": "a13a85f0763c4c528e2e65a7670a182f", "event": "settled", "usd": 0.00825, "input_tokens": 1360, "output_tokens": 278}
+{"id": "ba320dae77bc4c7dacad7b73cb54710e", "event": "reserved", "usd": 0.172008}
+{"id": "dfb421adde014b428a6e04e6f0bfd31a", "event": "settled", "usd": 0.007047, "input_tokens": 2019, "output_tokens": 66}
+{"id": "bbb9041decf94938929368b3873b7281", "event": "reserved", "usd": 0.190104}
+{"id": "bbb9041decf94938929368b3873b7281", "event": "settled", "usd": 0.007506, "input_tokens": 2107, "output_tokens": 79}
+{"id": "481b035d86fa4f008a155dd0d886ee3c", "event": "reserved", "usd": 0.196914}
+{"id": "ba320dae77bc4c7dacad7b73cb54710e", "event": "settled", "usd": 0.009273, "input_tokens": 1696, "output_tokens": 279}
+{"id": "72bc3b15cd884a5eb6555c3dbce327b1", "event": "reserved", "usd": 0.18306}
+{"id": "481b035d86fa4f008a155dd0d886ee3c", "event": "settled", "usd": 0.00909, "input_tokens": 2445, "output_tokens": 117}
+{"id": "c9434347836d4691b8777c351202e29a", "event": "reserved", "usd": 0.153186}
+{"id": "72bc3b15cd884a5eb6555c3dbce327b1", "event": "settled", "usd": 0.007614, "input_tokens": 2163, "output_tokens": 75}
+{"id": "daf0976ceaef4464a7154a6c10a6c4a9", "event": "reserved", "usd": 0.18981}
+{"id": "c9434347836d4691b8777c351202e29a", "event": "settled", "usd": 0.003594, "input_tokens": 803, "output_tokens": 79}
+{"id": "7a4dbfd23c534c28a56841ac2353d1d8", "event": "reserved", "usd": 0.159855}
+{"id": "daf0976ceaef4464a7154a6c10a6c4a9", "event": "settled", "usd": 0.009396, "input_tokens": 2497, "output_tokens": 127}
+{"id": "7a4dbfd23c534c28a56841ac2353d1d8", "event": "settled", "usd": 0.008658, "input_tokens": 1136, "output_tokens": 350}
+{"id": "ca833d2f258749858cbe80181011478c", "event": "reserved", "usd": 0.16716}
+{"id": "ca833d2f258749858cbe80181011478c", "event": "settled", "usd": 0.005937, "input_tokens": 1544, "output_tokens": 87}
+{"id": "c9906a5acf9847749d810f6be04d0aac", "event": "reserved", "usd": 0.171963}
+{"id": "c9906a5acf9847749d810f6be04d0aac", "event": "settled", "usd": 0.008124, "input_tokens": 1653, "output_tokens": 211}
+{"id": "6eff13298c294372970f3b9fdfb2e038", "event": "reserved", "usd": 0.180897}
+{"id": "6eff13298c294372970f3b9fdfb2e038", "event": "settled", "usd": 0.007221, "input_tokens": 2017, "output_tokens": 78}
+{"id": "e8b66364ac3c43208ddf56c3904d65dd", "event": "reserved", "usd": 0.187662}
+{"id": "e8b66364ac3c43208ddf56c3904d65dd", "event": "settled", "usd": 0.008691, "input_tokens": 2352, "output_tokens": 109}

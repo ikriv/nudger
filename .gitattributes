@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Keep published evidence byte-for-byte identical to the saved artifacts.
+experiments/2026-09-26/results.sqlite binary
+experiments/2026-09-26/usage.jsonl -text whitespace=cr-at-eol
+experiments/2026-09-26/transcripts/*.md -text whitespace=-blank-at-eol
